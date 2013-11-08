@@ -3,12 +3,7 @@ touchCarousel 一个用于图片轮播的jquery插件，可以动态的在图片
 
 
 ## 使用
-Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/agustine/touchCarousel/master/dist/touchCarousel.min.js
-[max]: https://raw.github.com/agustine/touchCarousel/master/src/touchCarousel.js
-
-In your web page:
 
 ```html
 <script type="text/javascript" src="../libs/jquery/jquery.js"></script>
