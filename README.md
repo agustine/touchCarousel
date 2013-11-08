@@ -1,4 +1,30 @@
-touchCarousel
-=============
+# Touchcarousel
 
-touchCarousel 一个用于图片轮播的jquery插件，可以动态的在图片列表的前后添加图片数据
+
+
+## Getting Started
+Download the [production version][min] or the [development version][max].
+
+[min]: https://raw.github.com/Administrator/jquery.touchCarousel/master/dist/touchCarousel.min.js
+[max]: https://raw.github.com/Administrator/jquery.touchCarousel/master/dist/touchCarousel.js
+
+In your web page:
+
+```html
+<script src="jquery.js"></script>
+<script src="dist/touchCarousel.min.js"></script>
+<script>
+jQuery(function($) {
+  $.awesome(); // "awesome"
+});
+</script>
+```
+
+## Documentation
+_(Coming soon)_
+
+## Examples
+_(Coming soon)_
+
+## Release History
+_(Nothing yet)_

@@ -1,0 +1,27 @@
+{
+  "name": "touchCarousel",
+  "title": "Touchcarousel",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Administrator/jquery.touchCarousel",
+  "author": {
+    "name": "叶晓毅",
+    "email": "agustine103@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Administrator/jquery.touchCarousel.git"
+  },
+  "bugs": "https://github.com/Administrator/jquery.touchCarousel/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Administrator/jquery.touchCarousel/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "LinkedList": "*"
+  },
+  "keywords": []
+}
